@@ -14,10 +14,26 @@ Each lesson is a separate notebook in the `lessons/` folder:
 ## 🛠️ Practice Project
 
 The `project/` folder contains my mini-project:
-- **Titanic EDA**: A basic exploratory data analysis project on Titanic dataset samples.
+     
+**Titanic Survival Analysis**
+   - Passenger demographics
+   - Survival factors
+   - Missing value analysis
+
+**Iris Flower Dataset**
+   - Feature distributions
+   - Pairwise relationships
+   - 3D visualization
+
+**Sales Data Trends**
+   - Monthly sales patterns
+   - Product performance
+   - Time series analysis
 
 ## Datasets
 - Titanic passenger data
+- Iris flower measurements
+- Retail sales records
 
 ## 📈 Purpose
 
