@@ -16,6 +16,9 @@ Each lesson is a separate notebook in the `lessons/` folder:
 The `project/` folder contains my mini-project:
 - **Titanic EDA**: A basic exploratory data analysis project on Titanic dataset samples.
 
+## Datasets
+- Titanic passenger data
+
 ## 📈 Purpose
 
 This repo serves as a foundation for my journey into data science, with hands-on practice in data manipulation and visualization.
